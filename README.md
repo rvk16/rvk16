@@ -45,11 +45,6 @@ I'm passionate about building high-availability systems that deliver real busine
 **Security**
 - OAuth 2.1, Spring Security, OWASP best practices
 
-## 🏆 Key Achievements
-- **ServiceNow UTG Llama Award** - Outstanding R&D contributions to Big Data Next-Gen project
-- **GCS Recognition & SPOT Awards** - Exceptional performance in distributed systems and observability
-- **Telstra Certificate of Recognition** - Complex data reconciliation project delivery
-
 ## 🌱 Currently Exploring
 - AI-powered infrastructure and anomaly detection systems
 - Advanced distributed tracing and observability patterns
