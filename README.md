@@ -59,8 +59,4 @@ Senior Software Engineer with **6+ years of specialized experience** in designin
 
 ---
 
-### 🏆 Achievements
-- **ServiceNow UTG Llama Award**: Outstanding R&D contributions.
-- **GCS Recognition**: Exceptional performance in distributed systems and observability.
 
----
