@@ -20,7 +20,7 @@
 
 Senior Software Engineer with **6+ years of specialized experience** in designing and optimizing distributed backend systems and data pipelines. Proven track record in leading innovative R&D initiatives and delivering high-availability systems with a strong focus on **scalability, reliability, and observability**.
 
-- 🔭 **Currently working on**: High-throughput batch data pipelines (5B+ events/day) and Event-driven microservices @ ServiceNow.
+- 🔭 **Currently working on**: Building data platform, Backend System (Data Access Layer) for Observability and Data Platform and Event-driven microservices @ ServiceNow.
 - 🌱 **Exploring**: AI-powered Infrastructure, Spring AI, Next-gen Data Platforms.
 - 💬 **Ask me about**: Java, JVM Internals, Spark, Kafka, System Design.
 
